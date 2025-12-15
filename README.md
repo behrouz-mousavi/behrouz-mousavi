@@ -53,15 +53,3 @@
 ---
 
 💡 *"Bridging cutting-edge AI research with practical business applications to create intelligent decision-making systems."*
-
-**Currently open to**: Senior AI Research roles, Decision Intelligence positions, Consulting opportunities
-
-## 🌟 Features
-
-- **Responsive Design**: Fully responsive layout that works perfectly on desktop, tablet, and mobile devices
-- **Modern UI/UX**: Clean, professional design with smooth animations and interactions
-- **Fast Loading**: Optimized performance with lightweight code and efficient assets
-- **SEO Optimized**: Proper meta tags, semantic HTML, and search engine optimization
-- **Interactive Elements**: Smooth scrolling, hover effects, and animated counters
-- **Contact Form**: Functional contact form with validation
-- **Mobile-First**: Mobile-first approach with hamburger menu for mobile navigation
